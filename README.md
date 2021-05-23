@@ -14,6 +14,11 @@ API URL :
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
 
+# async await in javascript
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
+
+
 
 
 # Getting Started with Create React App
