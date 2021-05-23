@@ -7,15 +7,15 @@ const MovieList = (props) => {
   return (
     <ul className={classes['movies-list']}>
       {props.movies.map((movie) => (
-        <Movie
-          key={movie.id}
+        <Movie        
           title={movie.title}
-          releaseDate={movie.release}
+          releaseDate={movie.releaseDate}
           openingText={movie.openingText}
         />
       ))}
     </ul>
   );
 };
+
 
 export default MovieList;
