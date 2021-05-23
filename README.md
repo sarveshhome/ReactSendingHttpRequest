@@ -25,17 +25,29 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 
 200 OK
+
 301 Moved Permanently
+
 302 Found
+
 303 See Other
+
 403 Forbidden
+
 404 Not Found
+
 451 Unavailable for Legal Reasons
 
+
+
 1xx informational response – the request was received, continuing process
+
 2xx successful – the request was successfully received, understood, and accepted
+
 3xx redirection – further action needs to be taken in order to complete the request
+
 4xx client error – the request contains bad syntax or cannot be fulfilled
+
 5xx server error – the server failed to fulfil an apparently valid request
 
 # Getting Started with Create React App
